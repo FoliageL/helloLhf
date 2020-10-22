@@ -8,7 +8,7 @@ public class Hello {
     }
 
     void run(){
-        System.out.println("rugit ");
+        System.out.println("run ");
     }
 
     public static void main(String[] args) {
